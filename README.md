@@ -1,6 +1,9 @@
 # OnlyKey App
 
-This is the official app for **OnlyKey**
+This is an unofficial attempt to make an ARM compatible app for **OnlyKey** 
+You likely want the official OnlyKey-App from here: https://github.com/trustcrypto/OnlyKey-App
+I'm not a professional programmer, just an enthusiast that wants to set up my OnlyKey without buying a non ARM computer to do so.
+I would advise to only use this fork with caution.
 
 OnlyKey can be purchased here: [OnlyKey order](http://www.crp.to/p/)
 
